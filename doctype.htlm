@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Moje Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>[Twoje Imiê i Nazwisko]</h1>
+    <p>[Krótki opis]</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Projekty</h2>
+      <div class="project">
+        <img src="[adres_obrazu_1.jpg]" alt="Projekt 1">
+        <h3>[Tytu³ Projektu 1]</h3>
+        <p>[Krótki opis projektu 1]</p>
+      </div>
+      <div class="project">
+        <img src="[adres_obrazu_2.jpg]" alt="Projekt 2">
+        <h3>[Tytu³ Projektu 2]</h3>
+        <p>[Krótki opis projektu 2]</p>
+      </div>
+      </section>
+  </main>
+
+  <footer>
+    <p>&copy; [Rok] [Twoje Imiê i Nazwisko]</p>
+  </footer>
+</body>
+</html>
